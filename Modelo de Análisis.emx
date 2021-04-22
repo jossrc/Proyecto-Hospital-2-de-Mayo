@@ -7,6 +7,9 @@
     <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_dcc98KMTEeun44s0yOrgbA" type="Freeform" name="Diagrama de CU segun Análisis">
       <element xsi:nil="true"/>
     </contents>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_mYP0QKMTEeun44s0yOrgbA" type="Freeform" name="Arquitectura de Analisis">
+      <element xsi:nil="true"/>
+    </contents>
   </eAnnotations>
   <eAnnotations xmi:id="_S-Gv6aMTEeun44s0yOrgbA" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
     <details xmi:id="_S-Gv6qMTEeun44s0yOrgbA" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
