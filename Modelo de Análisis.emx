@@ -2,12 +2,947 @@
 <!--xtools2_universal_type_manager-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
-<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_S-Gv5qMTEeun44s0yOrgbA" name="Modelo de Análisis">
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_S-Gv5qMTEeun44s0yOrgbA" name="Modelo de Análisis">
   <eAnnotations xmi:id="_S-Gv56MTEeun44s0yOrgbA" source="uml2.diagrams">
     <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_dcc98KMTEeun44s0yOrgbA" type="Freeform" name="Diagrama de CU segun Análisis">
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jSBUKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jSBUaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jSBUqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSBU6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSBVKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSBVaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jSBVqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_bOyF4J7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Seleccion%20de%20postulantes%20a%20Concurso%20para%20el%20puesto%20de%20medico/Consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jSBV6MTEeun44s0yOrgbA" x="1845" y="12529"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jSoYKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jSoYaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jSoYqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSoY6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSoZKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSoZaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jSoZqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_Y_YPEJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Seleccion%20de%20postulantes%20a%20Concurso%20para%20el%20puesto%20de%20medico/Generar%20Cronograma?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jSoZ6MTEeun44s0yOrgbA" x="3432" y="6337"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jSoaKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="5824856" transparency="0" lineColor="1356564" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jSoaaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jSoaqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSoa6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSobKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSobaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jSobqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_aRjBkJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Seleccion%20de%20postulantes%20a%20Concurso%20para%20el%20puesto%20de%20medico/Mantener%20Postulante?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jSob6MTEeun44s0yOrgbA" x="15444" y="5808"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jSocKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="5789921" transparency="0" lineColor="1316019" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jSocaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jSocqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSoc6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSodKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSodaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jSodqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_7uIGEJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20el%20Informe%20Escalafón?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jSod6MTEeun44s0yOrgbA" x="15047" y="13322"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jSoeKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="5789921" transparency="0" lineColor="1316019" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jSoeaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jSoeqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSoe6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSofKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSofaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jSofqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_6PIYgJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jSof6MTEeun44s0yOrgbA" x="12402" y="9777" width="4418"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jSogKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="5789921" transparency="0" lineColor="1316019" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jSogaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jSogqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSog6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSohKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jSohaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jSohqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_8_AfIJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20Proyecto%20de%20Oficio?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jSoh6MTEeun44s0yOrgbA" x="25075" y="16101"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPcKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="5789921" transparency="0" lineColor="1316019" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jTPcaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jTPcqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPc6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPdKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPdaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jTPdqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#__6NE8J7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20Resolución%20Directoral?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jTPd6MTEeun44s0yOrgbA" x="13857" y="2766"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPeKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="13027014" transparency="0" lineColor="10395294" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jTPeaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jTPeqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPe6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPfKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPfaMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jTPfqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_3wKbsJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Registrar%20Solicitud%20por%20Capacitacion?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jTPf6MTEeun44s0yOrgbA" x="26400" y="4224"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPgKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jTPgaMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jTPgqMTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPg6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPhKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPhaMTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_MHRewJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Coordinador%20del%20ESCR?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jTPhqMTEeun44s0yOrgbA" x="6607" y="15968"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPh6MTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jTPiKMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jTPiaMTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPiqMTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPi6MTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPjKMTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_MmGIwJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Director%20General%20del%20Hospital?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jTPjaMTEeun44s0yOrgbA" x="16503" y="9777"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPjqMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jTPj6MTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jTPkKMTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPkaMTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPkqMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPk6MTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_IcRMoJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Encargado%20de%20la%20CC?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jTPlKMTEeun44s0yOrgbA" x="9491" y="10571"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPlaMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jTPlqMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jTPl6MTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPmKMTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPmaMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jTPmqMTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_MVbPgJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Encargado%20de%20la%20Mesa%20de%20Partes?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jTPm6MTEeun44s0yOrgbA" x="5417" y="7925"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jTPnKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2gKMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jT2gaMTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2gqMTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2g6MTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2hKMTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_NQmeUJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Recepcionista%20del%20Tramite%20Documentario?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jT2haMTEeun44s0yOrgbA" x="26928" y="10032" width="4153"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jT2hqMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2h6MTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jT2iKMTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2iaMTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2iqMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2i6MTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_LZpjwJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Representante%20de%20Jefatura%20del%20Personal?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jT2jKMTEeun44s0yOrgbA" x="7004" y="3030" width="3704"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jT2jaMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2jqMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jT2j6MTEeun44s0yOrgbA" width="1428" height="2354"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2kKMTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2kaMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2kqMTEeun44s0yOrgbA" type="Parent"/>
+        <element xmi:type="uml:Actor" href="Modelo%20de%20Casos%20de%20Uso.emx#_L3TJEJ7JEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/Secretaria%20de%20Oficina%20de%20Logística?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jT2k6MTEeun44s0yOrgbA" x="10549" y="6337" width="3466"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_4jT2lKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" showListSignature="true" fillColor="15652322" transparency="0" lineColor="12464763" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2laMTEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_4jT2lqMTEeun44s0yOrgbA" width="2196" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2l6MTEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2mKMTEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2maMTEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_4jT2mqMTEeun44s0yOrgbA" visible="false" type="Extension_Points"/>
+        <element xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_AAuiAKJeEeuwGbDvRYdZ7A?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Reutilizables/Consultar%20Empleado?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jT2m6MTEeun44s0yOrgbA" x="23100" y="7656"/>
+      </children>
       <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jT2nKMTEeun44s0yOrgbA" source="_4jTPlaMTEeun44s0yOrgbA" target="_4jSoYKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2naMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2nqMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2n6MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jT2oKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2oaMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2oqMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KuvJEJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2o6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2pKMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2paMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KuvJEJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2pqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2p6MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2qKMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KusFwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2qaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2qqMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jT2q6MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KusFwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2rKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2raMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jT2rqMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KuvJEJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2r6MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2sKMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jT2saMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KusFwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2sqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2s6MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jT2tKMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KuvJEJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2taMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jT2tqMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jT2t6MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_KusFwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jT2uKMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_KupCcJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jT2uaMTEeun44s0yOrgbA" points="[26, -27, -927, 158]$[926, -159, -27, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jUdkKMTEeun44s0yOrgbA" source="_4jT2jaMTEeun44s0yOrgbA" target="_4jSoYKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdkaMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdkqMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdk6MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jUdlKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdlaMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdlqMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0xogJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdl6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdmKMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdmaMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0xogJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdmqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdm6MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdnKMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0waYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdnaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdnqMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdn6MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0waYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdoKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdoaMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jUdoqMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0xogJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdo6MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdpKMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jUdpaMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0waYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdpqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdp6MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jUdqKMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0xogJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdqaMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdqqMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jUdq6MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0waYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Cronograma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdrKMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_M0vMQJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jUdraMTEeun44s0yOrgbA" points="[0, -27, -874, 370]$[846, -397, -53, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jUdrqMTEeun44s0yOrgbA" source="_4jT2hqMTEeun44s0yOrgbA" target="_4jSoaKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdr6MTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdsKMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdsaMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jUdsqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUds6MTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdtKMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXQMUJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdtaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdtqMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdt6MTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXQMUJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUduKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUduaMTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUduqMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXO-MJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/mantener%20Postulante?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdu6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdvKMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jUdvaMTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXO-MJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/mantener%20Postulante?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdvqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdv6MTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jUdwKMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXQMUJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdwaMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdwqMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jUdw6MTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXO-MJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/mantener%20Postulante?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdxKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdxaMTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jUdxqMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXQMUJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdx6MTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jUdyKMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jUdyaMTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXO-MJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/mantener%20Postulante?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jUdyqMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_PXNwEJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jUdy6MTEeun44s0yOrgbA" points="[26, -27, -953, 238]$[952, -239, -27, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jVEoKMTEeun44s0yOrgbA" source="_4jTPjqMTEeun44s0yOrgbA" target="_4jSBUKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEoaMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEoqMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEo6MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jVEpKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEpaMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEpqMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1SVAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEp6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEqKMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEqaMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1SVAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEqqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEq6MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVErKMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1RG4J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEraMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVErqMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEr6MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1RG4J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEsKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEsaMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVEsqMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1SVAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEs6MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEtKMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVEtaMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1RG4J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEtqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEt6MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVEuKMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1SVAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEuaMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEuqMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVEu6MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1RG4J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEvKMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_R1Qf0J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jVEvaMTEeun44s0yOrgbA" points="[26, 0, -847, -133]$[899, 105, 26, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jVEvqMTEeun44s0yOrgbA" source="_4jTPgKMTEeun44s0yOrgbA" target="_4jSBUKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEv6MTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEwKMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEwaMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jVEwqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEw6MTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVExKMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh6xgJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVExaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVExqMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEx6MTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh6xgJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEyKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEyaMTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEyqMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh5jYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEy6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEzKMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVEzaMTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh5jYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVEzqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVEz6MTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVE0KMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh6xgJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVE0aMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVE0qMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVE06MTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh5jYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVE1KMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVE1aMTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVE1qMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh6xgJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVE16MTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVE2KMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVE2aMTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh5jYJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVE2qMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_Sh4VQJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jVE26MTEeun44s0yOrgbA" points="[0, 0, -874, -265]$[873, 264, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jVrsKMTEeun44s0yOrgbA" source="_4jTPlaMTEeun44s0yOrgbA" target="_4jSBUKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrsaMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVrsqMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVrs6MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jVrtKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrtaMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVrtqMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPtJAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVrt6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVruKMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVruaMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPtJAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVruqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVru6MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVrvKMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPr64J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVrvaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrvqMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVrv6MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPr64J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVrwKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrwaMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVrwqMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPtJAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVrw6MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrxKMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVrxaMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPr64J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVrxqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrx6MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVryKMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPtJAJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVryaMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVryqMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVry6MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPr64J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/consultar%20bases%20y%20carpetas%20de%20postulantes?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVrzKMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_UPqswJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jVrzaMTEeun44s0yOrgbA" points="[52, 0, -927, -53]$[1005, 26, 26, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jVrzqMTEeun44s0yOrgbA" source="_4jTPnKMTEeun44s0yOrgbA" target="_4jTPeKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVrz6MTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVr0KMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVr0aMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jVr0qMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr06MTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVr1KMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG4PwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr1aMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr1qMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVr16MTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG4PwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr2KMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr2aMTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVr2qMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG3BoJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/registrar%20Solicitud%20por%20Capacitacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr26MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr3KMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jVr3aMTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG3BoJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/registrar%20Solicitud%20por%20Capacitacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr3qMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr36MTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVr4KMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG4PwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr4aMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr4qMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jVr46MTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG3BoJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/registrar%20Solicitud%20por%20Capacitacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr5KMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr5aMTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVr5qMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG4PwJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr56MTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jVr6KMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jVr6aMTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG3BoJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/registrar%20Solicitud%20por%20Capacitacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jVr6qMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_hG2akJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jVr66MTEeun44s0yOrgbA" points="[26, -27, -953, 185]$[926, -239, -53, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jWSwKMTEeun44s0yOrgbA" source="_4jTPgKMTEeun44s0yOrgbA" target="_4jSoeKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWSwaMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWSwqMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWSw6MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jWSxKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWSxaMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWSxqMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbhy8J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWSx6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWSyKMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWSyaMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbhy8J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWSyqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWSy6MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWSzKMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbgk0J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWSzaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWSzqMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWSz6MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbgk0J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS0KMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS0aMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jWS0qMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbhy8J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS06MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS1KMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jWS1aMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbgk0J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS1qMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS16MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jWS2KMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbhy8J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS2aMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS2qMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jWS26MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbgk0J7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS3KMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_jbf9wJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jWS3aMTEeun44s0yOrgbA" points="[0, -27, -371, 185]$[396, -239, 26, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jWS3qMTEeun44s0yOrgbA" source="_4jTPh6MTEeun44s0yOrgbA" target="_4jSoeKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS36MTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWS4KMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWS4aMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jWS4qMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS46MTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWS5KMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbbJsJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS5aMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS5qMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWS56MTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbbJsJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS6KMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS6aMTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWS6qMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbZ7kJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS66MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS7KMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jWS7aMTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbZ7kJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS7qMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS76MTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jWS8KMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbbJsJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS8aMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS8qMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jWS86MTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbZ7kJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS9KMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS9aMTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jWS9qMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbbJsJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS96MTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jWS-KMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jWS-aMTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbZ7kJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Formulario%20de%20Acción%20de%20Personal?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jWS-qMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_kbZUgJ7KEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jWS-6MTEeun44s0yOrgbA" points="[0, -27, -265, 158]$[238, -186, -27, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jW50KMTEeun44s0yOrgbA" source="_4jTPgKMTEeun44s0yOrgbA" target="_4jSocKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW50aMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW50qMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW506MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jW51KMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW51aMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW51qMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCqZoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW516MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW52KMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW52aMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCqZoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW52qMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW526MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW53KMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCpLgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW53aMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW53qMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW536MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCpLgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW54KMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW54aMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jW54qMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCqZoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW546MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW55KMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jW55aMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCpLgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW55qMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW556MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jW56KMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCqZoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW56aMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW56qMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jW566MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCpLgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW57KMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_MCn9YJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jW57aMTEeun44s0yOrgbA" points="[0, 0, -265, -80]$[264, 52, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jW57qMTEeun44s0yOrgbA" source="_4jTPh6MTEeun44s0yOrgbA" target="_4jSocKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW576MTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW58KMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW58aMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jW58qMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW586MTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW59KMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXy8IJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW59aMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW59qMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW596MTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXy8IJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW5-KMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW5-aMTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW5-qMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXyVEJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW5-6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW5_KMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jW5_aMTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXyVEJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW5_qMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW5_6MTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jW6AKMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXy8IJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW6AaMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW6AqMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jW6A6MTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXyVEJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW6BKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW6BaMTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jW6BqMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXy8IJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW6B6MTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jW6CKMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jW6CaMTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXyVEJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20el%20Informe%20Escalafón?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jW6CqMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_MXxG8J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jW6C6MTEeun44s0yOrgbA" points="[52, 0, -186, 0]$[238, -27, 26, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jXg4KMTEeun44s0yOrgbA" source="_4jTPgKMTEeun44s0yOrgbA" target="_4jSogKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg4aMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXg4qMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXg46MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jXg5KMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg5aMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXg5qMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6DUoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg56MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg6KMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXg6aMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6DUoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg6qMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg66MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXg7KMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6CGgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg7aMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg7qMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXg76MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6CGgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg8KMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg8aMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jXg8qMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6DUoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg86MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg9KMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jXg9aMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6CGgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg9qMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg96MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jXg-KMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6DUoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg-aMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg-qMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jXg-6MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6CGgJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXg_KMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_M6A4YJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jXg_aMTEeun44s0yOrgbA" points="[0, 0, -265, -133]$[238, 105, -53, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jXg_qMTEeun44s0yOrgbA" source="_4jTPh6MTEeun44s0yOrgbA" target="_4jSogKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXg_6MTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXhAKMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXhAaMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jXhAqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhA6MTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXhBKMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaHUwJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhBaMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhBqMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXhB6MTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaHUwJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhCKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhCaMTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXhCqMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaGGoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhC6MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhDKMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jXhDaMTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaGGoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhDqMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhD6MTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jXhEKMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaHUwJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhEaMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhEqMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jXhE6MTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaGGoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhFKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhFaMTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jXhFqMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaHUwJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhF6MTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jXhGKMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jXhGaMTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaGGoJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Proyecto%20de%20Oficio?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jXhGqMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_NaE4gJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jXhG6MTEeun44s0yOrgbA" points="[0, 0, -212, -80]$[185, 79, -53, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jYH8KMTEeun44s0yOrgbA" source="_4jT2hqMTEeun44s0yOrgbA" target="_4jTPcKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYH8aMTEeun44s0yOrgbA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYH8qMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYH86MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jYH9KMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYH9aMTEeun44s0yOrgbA" visible="false" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYH9qMTEeun44s0yOrgbA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM-N8J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYH96MTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYH-KMTEeun44s0yOrgbA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYH-aMTEeun44s0yOrgbA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM-N8J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYH-qMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYH-6MTEeun44s0yOrgbA" visible="false" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYH_KMTEeun44s0yOrgbA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM8_0J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Resolución%20Directoral?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYH_aMTEeun44s0yOrgbA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYH_qMTEeun44s0yOrgbA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYH_6MTEeun44s0yOrgbA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM8_0J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Resolución%20Directoral?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYIAKMTEeun44s0yOrgbA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYIAaMTEeun44s0yOrgbA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jYIAqMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM-N8J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYIA6MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYIBKMTEeun44s0yOrgbA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_4jYIBaMTEeun44s0yOrgbA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM8_0J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Resolución%20Directoral?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYIBqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYIB6MTEeun44s0yOrgbA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jYICKMTEeun44s0yOrgbA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM-N8J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/%3CPropiedad%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYICaMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYICqMTEeun44s0yOrgbA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_4jYIC6MTEeun44s0yOrgbA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM8_0J7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/generar%20Resolución%20Directoral?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4jYIDKMTEeun44s0yOrgbA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Modelo%20de%20Casos%20de%20Uso.emx#_eM7xsJ7LEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jYIDaMTEeun44s0yOrgbA" points="[26, 0, -212, -53]$[264, 26, 26, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jYIDqMTEeun44s0yOrgbA" source="_4jSoeKMTEeun44s0yOrgbA" target="_4jT2lKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYID6MTEeun44s0yOrgbA" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIEKMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIEaMTEeun44s0yOrgbA" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIEqMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jYIE6MTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <element xmi:type="uml:Include" href="Modelo%20de%20Casos%20de%20Uso.emx#_Jqy-IKJfEeuwGbDvRYdZ7A?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20Formulario%20de%20Acción%20de%20Personal/%3CInclusión%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jYIFKMTEeun44s0yOrgbA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jYIFaMTEeun44s0yOrgbA" source="_4jSogKMTEeun44s0yOrgbA" target="_4jT2lKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYIFqMTEeun44s0yOrgbA" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIF6MTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIGKMTEeun44s0yOrgbA" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIGaMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jYIGqMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <element xmi:type="uml:Include" href="Modelo%20de%20Casos%20de%20Uso.emx#_MzUOQKJfEeuwGbDvRYdZ7A?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20Proyecto%20de%20Oficio/%3CInclusión%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jYIG6MTEeun44s0yOrgbA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jYIHKMTEeun44s0yOrgbA" source="_4jTPcKMTEeun44s0yOrgbA" target="_4jT2lKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYIHaMTEeun44s0yOrgbA" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIHqMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIH6MTEeun44s0yOrgbA" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIIKMTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jYIIaMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <element xmi:type="uml:Include" href="Modelo%20de%20Casos%20de%20Uso.emx#_KR_hAKJfEeuwGbDvRYdZ7A?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20Resolución%20Directoral/%3CInclusión%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jYIIqMTEeun44s0yOrgbA" points="[1296, 0, -8335, -5028]$[8704, 0, -927, -5028]$[8704, 4524, -927, -503]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_4jYII6MTEeun44s0yOrgbA" source="_4jSocKMTEeun44s0yOrgbA" target="_4jT2lKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_4jYIJKMTEeun44s0yOrgbA" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIJaMTEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIJqMTEeun44s0yOrgbA" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_4jYIJ6MTEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4jYIKKMTEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <element xmi:type="uml:Include" href="Modelo%20de%20Casos%20de%20Uso.emx#_HXrsAKJfEeuwGbDvRYdZ7A?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Generar%20el%20Informe%20Escalafón/%3CInclusión%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4jYIKaMTEeun44s0yOrgbA" points="[1296, 0, -6165, 7514]$[3545, 0, -3943, 7514]$[3545, -556, -3943, 6958]$[6879, -556, -609, 6958]$[6879, -6933, -609, 582]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6LoNQKMVEeun44s0yOrgbA" source="_4jTPeKMTEeun44s0yOrgbA" target="_4jT2lKMTEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_6Lo0UKMVEeun44s0yOrgbA" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6Lo0UqMVEeun44s0yOrgbA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6Lo0VKMVEeun44s0yOrgbA" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_6Lo0U6MVEeun44s0yOrgbA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6Lo0UaMVEeun44s0yOrgbA" y="-186"/>
+        </children>
+        <element xmi:type="uml:Include" href="Modelo%20de%20Casos%20de%20Uso.emx#_6LnmMKMVEeun44s0yOrgbA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Gestion%20de%20licencia%20por%20capacitacion%20con%20goce%20de%20haber/Registrar%20Solicitud%20por%20Capacitacion/%3CInclusión%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6LoNQaMVEeun44s0yOrgbA" points="[-37, 10, 147, -47]$[-207, 78, -23, 21]"/>
+      </edges>
     </contents>
     <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_mYP0QKMTEeun44s0yOrgbA" type="Freeform" name="Arquitectura de Analisis">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_EN2LAKMUEeun44s0yOrgbA" element="_EN084KMUEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" fillColor="5824856" transparency="0" lineColor="1356564" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_EN2yEKMUEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_EN2yEaMUEeun44s0yOrgbA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_EN2yEqMUEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_EN2yE6MUEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_EN2yFKMUEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_EN2yFaMUEeun44s0yOrgbA" type="PackageContents" collapsed="true" canonical="false"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EN2LAaMUEeun44s0yOrgbA" x="7540" y="2698"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_XwJtAKMUEeun44s0yOrgbA" element="_XwH30KMUEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" fillColor="15652322" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_XwKUEKMUEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_XwKUEaMUEeun44s0yOrgbA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_XwKUEqMUEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_XwKUE6MUEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_XwKUFKMUEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_XwKUFaMUEeun44s0yOrgbA" type="PackageContents" collapsed="true" canonical="false"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XwJtAaMUEeun44s0yOrgbA" x="12144" y="2772"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_YTIo0KMVEeun44s0yOrgbA" element="_YTHasKMVEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" fillColor="13027014" transparency="0" lineColor="10395294" lineWidth="1" showStereotype="Image">
+        <children xmi:type="notation:DecorationNode" xmi:id="_YTIo0qMVEeun44s0yOrgbA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_YTIo06MVEeun44s0yOrgbA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_YTIo1KMVEeun44s0yOrgbA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_YTJP4KMVEeun44s0yOrgbA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_YTJP4aMVEeun44s0yOrgbA" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YTJP4qMVEeun44s0yOrgbA" type="PackageContents" collapsed="true" canonical="false"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YTIo0aMVEeun44s0yOrgbA" x="16236" y="2772"/>
+      </children>
       <element xsi:nil="true"/>
     </contents>
   </eAnnotations>
@@ -97,6 +1032,27 @@
   <packageImport xmi:id="_S-HXIKMTEeun44s0yOrgbA">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_EN084KMUEeun44s0yOrgbA" name="Seguridad">
+    <eAnnotations xmi:id="_EN1j8KMUEeun44s0yOrgbA" source="uml2.diagrams" references="_EN1j8aMUEeun44s0yOrgbA">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_EN1j8aMUEeun44s0yOrgbA" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_XwH30KMUEeun44s0yOrgbA" name="Empleado">
+    <eAnnotations xmi:id="_XwIe4KMUEeun44s0yOrgbA" source="uml2.diagrams" references="_XwIe4aMUEeun44s0yOrgbA">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_XwIe4aMUEeun44s0yOrgbA" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_YTHasKMVEeun44s0yOrgbA" name="Solicitud">
+    <eAnnotations xmi:id="_YTHasaMVEeun44s0yOrgbA" source="uml2.diagrams" references="_YTIBwKMVEeun44s0yOrgbA">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_YTIBwKMVEeun44s0yOrgbA" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
   <profileApplication xmi:id="_S-HXKaMTEeun44s0yOrgbA">
     <eAnnotations xmi:id="_S-HXKqMTEeun44s0yOrgbA" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
