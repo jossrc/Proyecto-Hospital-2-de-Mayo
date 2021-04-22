@@ -1647,6 +1647,7 @@
       </eAnnotations>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_3wKbsJ7IEeu1uuApwFjrYA" name="Registrar Solicitud por Capacitacion">
         <include xmi:id="_36xk8KMVEeun44s0yOrgbA" addition="_AAuiAKJeEeuwGbDvRYdZ7A"/>
+        <include xmi:id="_6LnmMKMVEeun44s0yOrgbA" addition="_AAuiAKJeEeuwGbDvRYdZ7A"/>
       </packagedElement>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_6PIYgJ7IEeu1uuApwFjrYA" name="Generar Formulario de Acción de Personal">
         <include xmi:id="_Jqy-IKJfEeuwGbDvRYdZ7A" addition="_AAuiAKJeEeuwGbDvRYdZ7A"/>
