@@ -1039,14 +1039,6 @@
           </children>
           <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_kgSa0aMYEeun44s0yOrgbA" points="[-44, 41, 169, -206]$[-169, 288, 44, 41]"/>
         </edges>
-        <edges xmi:type="umlnotation:UMLConnector" xmi:id="_qviyYKMYEeun44s0yOrgbA" element="_qvg9MKMYEeun44s0yOrgbA" source="_eGcOwKMWEeun44s0yOrgbA" target="_EN2LAKMUEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" lineColor="8421504" lineWidth="1" showStereotype="Text">
-          <children xmi:type="notation:DecorationNode" xmi:id="_qviyYqMYEeun44s0yOrgbA" type="NameLabel">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_qviyZKMYEeun44s0yOrgbA" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_qviyZaMYEeun44s0yOrgbA" type="Name"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qviyY6MYEeun44s0yOrgbA" y="-186"/>
-          </children>
-          <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qviyYaMYEeun44s0yOrgbA" points="[-33, 35, 124, -164]$[-106, 202, 51, 3]"/>
-        </edges>
       </contents>
     </eAnnotations>
     <eAnnotations xmi:id="_S-Gv6aMTEeun44s0yOrgbA" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
