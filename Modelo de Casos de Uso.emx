@@ -1101,6 +1101,24 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qPyv0KJeEeuwGbDvRYdZ7A"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_5M8zwLZ3EeuLHNI_sYB6Jw" navigableOwnedEnd="_5M9a0LZ3EeuLHNI_sYB6Jw">
+      <ownedEnd xmi:id="_5M9a0LZ3EeuLHNI_sYB6Jw" name="cI_Consultar Proyecto de Oficio" visibility="private" association="_5M8zwLZ3EeuLHNI_sYB6Jw">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Análisis.emx#_dEoeMLZ3EeuLHNI_sYB6Jw?Modelo%20de%20Análisis/Documentación/CI_Consultar%20Proyecto%20de%20Oficio?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5M9a0rZ3EeuLHNI_sYB6Jw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5M9a0bZ3EeuLHNI_sYB6Jw" value="1"/>
+      </ownedEnd>
+      <memberEnd href="#_5M9a0LZ3EeuLHNI_sYB6Jw?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/cI_Consultar%20Proyecto%20de%20Oficio?"/>
+      <memberEnd href="Modelo%20de%20Análisis.emx#_5M-B4LZ3EeuLHNI_sYB6Jw?Modelo%20de%20Análisis/Documentación/CI_Consultar%20Proyecto%20de%20Oficio/director%20General%20del%20Hospital?"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_AwCxwLZ4EeuLHNI_sYB6Jw" navigableOwnedEnd="_AwDY0LZ4EeuLHNI_sYB6Jw">
+      <ownedEnd xmi:id="_AwDY0LZ4EeuLHNI_sYB6Jw" name="cI_Menu Principal" visibility="private" association="_AwCxwLZ4EeuLHNI_sYB6Jw">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Análisis.emx#_L-aKgKRXEeuegKKny-zSFA?Modelo%20de%20Análisis/Documentación/CI_Menu%20Principal?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_AwDY0rZ4EeuLHNI_sYB6Jw" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_AwDY0bZ4EeuLHNI_sYB6Jw" value="1"/>
+      </ownedEnd>
+      <memberEnd href="#_AwDY0LZ4EeuLHNI_sYB6Jw?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/cI_Menu%20Principal?"/>
+      <memberEnd href="Modelo%20de%20Análisis.emx#_AwD_4LZ4EeuLHNI_sYB6Jw?Modelo%20de%20Análisis/Documentación/CI_Menu%20Principal/director%20General%20del%20Hospital?"/>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_ku-fMJ7HEeu1uuApwFjrYA" name="Casos de Uso">
     <eAnnotations xmi:id="_ku-fMZ7HEeu1uuApwFjrYA" source="uml2.diagrams" references="_ku-fMp7HEeu1uuApwFjrYA">
