@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="96" version="2.0">
+<workbench progressCount="95" version="2.0">
 <workbenchAdvisor/>
-<window height="768" width="1024" x="301" y="116">
+<window height="768" maximized="true" width="1024" x="301" y="116">
 <fastViewData fastViewLocation="1024">
 <orientation position="512" view="com.ibm.xtools.mde.guidance"/>
 <orientation position="512" view="com.ibm.ccl.erf.ui.views.reportexplorer"/>
