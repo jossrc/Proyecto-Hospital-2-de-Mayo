@@ -1820,7 +1820,7 @@
         <supplier xmi:type="uml:UseCase" href="Modelo%20de%20Casos%20de%20Uso.emx#_aRjBkJ7IEeu1uuApwFjrYA?Modelo%20de%20Casos%20de%20Uso/Casos%20de%20Uso/Seleccion%20de%20postulantes%20a%20Concurso%20para%20el%20puesto%20de%20medico/Mantener%20Postulante?"/>
       </packagedElement>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_XwH30KMUEeun44s0yOrgbA" name="Empleado">
+    <packagedElement xmi:type="uml:Package" xmi:id="_XwH30KMUEeun44s0yOrgbA" name="Trabajador">
       <eAnnotations xmi:id="_XwIe4KMUEeun44s0yOrgbA" source="uml2.diagrams" references="_XwIe4aMUEeun44s0yOrgbA">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_XwIe4aMUEeun44s0yOrgbA" type="Freeform" name="Empleado">
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_79J7oKMdEeun44s0yOrgbA" fontName="Segoe UI" fontHeight="8" fillColor="15652322" transparency="0" lineColor="12464763" lineWidth="1" showStereotype="Image">
